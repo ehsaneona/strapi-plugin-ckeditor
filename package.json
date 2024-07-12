@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/strapi-plugin-ckeditor",
+  "name": "@ehsanakbarzadeh/strapi-plugin-ckeditor",
   "version": "0.0.12",
   "description": "CKEditor 5 custom field for Strapi.",
   "strapi": {
@@ -64,12 +64,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/strapi-plugin-ckeditor.git"
+    "url": "git+https://github.com/ehsaneona/strapi-plugin-ckeditor.git"
   },
-  "author": "CKSource (http://cksource.com/)",
-  "homepage": "https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor",
+  "author": "ehsanakbarzadeh",
+  "homepage": "https://market.strapi.io/plugins/@ehsanakbarzadeh-strapi-plugin-ckeditor",
   "engines": {
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehsaneona/strapi-plugin-ckeditor/issues"
+  },
+  "main": "strapi-admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
