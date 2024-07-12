@@ -312,6 +312,8 @@ const CKEDITOR_BASE_CONFIG_FOR_PRESETS = {
       options: [
         'default',
         'Arial, Helvetica Neue, Helvetica, Source Sans Pro, sans-serif',
+        'DomaineDispNarSemibold,Domaine Display Narrow,Playfair Display,Open Sans,Helvetica Neue,helvetica,roboto,arial,sans-serif',
+        "Inter,Open Sans,Helvetica Neue,helvetica,roboto,arial,sans-serif",
         'Courier New, Courier, monospace',
         'Georgia, serif',
         'Lucida Sans Unicode, Lucida Grande, sans-serif',
